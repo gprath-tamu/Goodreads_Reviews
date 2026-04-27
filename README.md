@@ -42,6 +42,8 @@ This notebook contains:
 
 - [Goodreads Books Metadata (Comics & Graphic Novels)](https://mcauleylab.ucsd.edu/public_datasets/gdrive/goodreads/byGenre/goodreads_books_comics_graphic.json.gz)
 
+  Note : Download the above two datasets and upload in ```data/raw``` folder
+
 ### Preprocessing Steps
 
 The preprocessing pipeline was implemented in `preprocessing.py` and extended with book metadata processing. The following steps were applied:
