@@ -1,0 +1,4 @@
+support,num_itemsets,num_rules
+0.005,779,2126
+0.01,180,350
+0.02,52,32
