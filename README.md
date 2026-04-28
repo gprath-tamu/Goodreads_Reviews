@@ -31,7 +31,9 @@ This notebook contains:
 
 ## 🎥 Project Video
 
-👉 **[INSERT YOUR YOUTUBE LINK HERE]**
+👉 **[Project Overview](https://youtu.be/WT3oniBb6Gs)**
+
+👉 **[Check out the full project walkthrough on YouTube](https://youtu.be/fgM6zZ-gxtQ)**
 
 ---
 
@@ -147,12 +149,12 @@ Goodreads_Reviews/
 ## 📦 Key Dependencies
 
 - python 3.11  
-- pandas 2.2.0  
-- numpy 1.26.0  
+- pandas 2.2.2  
+- numpy 2.0.2  
 - mlxtend 0.23.4  
-- scikit-learn 1.4.1  
-- matplotlib 3.8.0  
-- seaborn 0.13.0  
+- scikit-learn 1.6.1 
+- matplotlib 3.10.0 
+- seaborn 0.13.2  
 - tqdm 4.67.3
 
 👉 Full list of dependencies is available in `requirements.txt`.
